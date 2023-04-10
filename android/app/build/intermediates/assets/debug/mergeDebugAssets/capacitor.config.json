@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Torque Rent A Car",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
